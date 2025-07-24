@@ -26,7 +26,7 @@ A fully functional and visually appealing music player built using **ReactJS**, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/AmulyaSindhu28/react-music-player.git
+git clone https://github.com/AmulyaSindhu28/React-Music-Player.git
 cd react-music-player
 ```
 
